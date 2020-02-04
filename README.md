@@ -1,5 +1,6 @@
 ## The Kannasoot's Code Repository
 This page listed current projects which under development and maintaining by Kannasoot Kanokkanchana.
+Most of the code repositories are private. You may contact me for an additional information.
 
 ### Active Projects
 > Updated 04.02.2020
