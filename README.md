@@ -1,13 +1,13 @@
 ## The Kannasoot's Code Repository
 This page listed current projects which under development and maintaining by Kannasoot Kanokkanchana.
 
-### Active projects
+### Active Projects
 > Updated 04.02.2020
 
 - [**kannasoot.github.io**: a main code repository page](https://kannasoot.github.io/)
 - [**NanoStudio**: an interface software for NanoDAQ and NanoStat](https://github.com/kannasoot/nanostudio)
 
-### Achieved projects
+### Achieved Projects
 > Updated 04.02.2020
 
 - [**NanoController**: a DAQ interface software for low-current electrochemical experiments](https://github.com/kannasoot/Nano-Controller)
