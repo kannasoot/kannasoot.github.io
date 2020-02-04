@@ -1,8 +1,17 @@
-## Welcome to GitHub Pages
+## The Kannasoot's Code Repository
+This page listed current projects which under development and maintaining by Kannasoot Kanokkanchana.
 
-You can use the [editor on GitHub](https://github.com/kannasoot/kannasoot.me/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Active projects
+> Updated 04.02.2020
+- [kannasoot.github.io: a main code repository page](https://kannasoot.github.io/)
+- [NanoStudio: an interface software for NanoDAQ and NanoStat](https://github.com/kannasoot/nanostudio)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Achieved projects
+> Updated 04.02.2020
+- [NanoController: a DAQ interface software for low-current electrochemical experiments](https://github.com/kannasoot/Nano-Controller)
+- [ImpactRecorder: a legacy version of NanoController developed in Python](https://github.com/kannasoot/ImpactRecorder)
+- [DataSplitter: a software for splitting large chronoamperometry file to smaller and managable file](https://github.com/kannasoot/datasplitter)
+- [Presenter Randomizer: a python script for randomize presenters in a seminar](https://github.com/kannasoot/presenter_randomizer)
 
 ### Markdown
 
@@ -27,10 +36,6 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kannasoot/kannasoot.me/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
