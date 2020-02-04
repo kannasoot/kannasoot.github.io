@@ -3,11 +3,13 @@ This page listed current projects which under development and maintaining by Kan
 
 ### Active projects
 > Updated 04.02.2020
+
 - [kannasoot.github.io: a main code repository page](https://kannasoot.github.io/)
 - [NanoStudio: an interface software for NanoDAQ and NanoStat](https://github.com/kannasoot/nanostudio)
 
 ### Achieved projects
 > Updated 04.02.2020
+
 - [NanoController: a DAQ interface software for low-current electrochemical experiments](https://github.com/kannasoot/Nano-Controller)
 - [ImpactRecorder: a legacy version of NanoController developed in Python](https://github.com/kannasoot/ImpactRecorder)
 - [DataSplitter: a software for splitting large chronoamperometry file to smaller and managable file](https://github.com/kannasoot/datasplitter)
