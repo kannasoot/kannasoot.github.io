@@ -7,6 +7,7 @@ Most of the code repositories are private. You may contact me for an additional 
 > Updated 04.02.2020
 
 - [**kannasoot.github.io**: a main code repository page](https://kannasoot.github.io/)
+- [**gist.github.com/kannasoot**: a main gist page](https://gist.github.com/kannasoot/)
 - [**NanoStudio**: an interface software for NanoDAQ and NanoStat](https://github.com/kannasoot/nanostudio)
 
 ### Achieved Projects
@@ -16,6 +17,9 @@ Most of the code repositories are private. You may contact me for an additional 
 - [**ImpactRecorder**: a legacy version of NanoController developed in Python](https://github.com/kannasoot/ImpactRecorder)
 - [**DataSplitter**: a software for splitting large chronoamperometry file to smaller and managable file](https://github.com/kannasoot/datasplitter)
 - [**Presenter Randomizer**: a python script for randomize presenters in a seminar](https://github.com/kannasoot/presenter_randomizer)
+
+### Gists
+- [**Folder Structure Convention**](https://gist.github.com/kannasoot/79469a797d881913ca5fa9454fb182d0)
 
 ### Markdown
 
