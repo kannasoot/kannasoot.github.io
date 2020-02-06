@@ -9,8 +9,8 @@ Most of the code repositories are private. You may contact me for an additional 
 - [**kannasoot.github.io**: a main code repository page](https://kannasoot.github.io/)
 - [**gist.github.com/kannasoot**: a main gist page](https://gist.github.com/kannasoot/)
 - [**NanoStudio**: an interface software for NanoDAQ and NanoStat](https://github.com/kannasoot/nanostudio)
-- [**ec-cell-electrodeposition**: a CAD design of a holder for an electrochemical cell with microelectrode](https://github.com/kannasoot/ec-cell-electrodeposition)
 - [**NanoStat**: a potentiostat designed for low current and high bandwidth measurement](https://github.com/kannasoot/nanostat)
+- [**ec-cell-electrodeposition**: a CAD design of a holder for an electrochemical cell with microelectrode](https://github.com/kannasoot/ec-cell-electrodeposition)
 
 ### Achieved Projects
 > Updated 04.02.2020
