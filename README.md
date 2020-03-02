@@ -3,18 +3,19 @@ This page listed current projects which are under development and maintenance by
 
 Most of the code repositories are private. You may contact me for an additional information.
 
-### Active Projects
-> Updated 04.02.2020
-
+### Main repositories list and gists
 - [**kannasoot.github.io**: a main code repository page](https://kannasoot.github.io/)
 - [**gist.github.com/kannasoot**: a main gist page](https://gist.github.com/kannasoot/)
+
+### Active Projects
+> Updated 02.03.2020
 - [**NanoStudio**: an interface software for NanoDAQ and NanoStat](https://github.com/kannasoot/nanostudio)
 - [**NanoStat**: a potentiostat designed for low current and high bandwidth measurement](https://github.com/kannasoot/nanostat)
 - [**ec-cell-electrodeposition**: a CAD design of a holder for an electrochemical cell with microelectrode](https://github.com/kannasoot/ec-cell-electrodeposition)
 - [**modular-hardware**: a separate design block for quick prototyping](https://github.com/kannasoot/modular-hardware)
 
 ### Achieved Projects
-> Updated 04.02.2020
+> Updated 02.03.2020
 
 - [**NanoController**: a DAQ interface software for low-current electrochemical experiments](https://github.com/kannasoot/Nano-Controller)
 - [**reference-electrode-tester**: a legacy design of an electrometer and firmware for reference electrode testing](https://github.com/kannasoot/reference-electrode-tester)
