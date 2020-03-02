@@ -17,6 +17,7 @@ Most of the code repositories are private. You may contact me for an additional 
 > Updated 04.02.2020
 
 - [**NanoController**: a DAQ interface software for low-current electrochemical experiments](https://github.com/kannasoot/Nano-Controller)
+- [**Reference Electrode Tester**: a legacy design of an electrometer and firmware for reference electrode testing](https://github.com/kannasoot/reference-electrode-tester)
 - [**ImpactRecorder**: a legacy version of NanoController developed in Python](https://github.com/kannasoot/ImpactRecorder)
 - [**DataSplitter**: a software for splitting large chronoamperometry file to smaller and managable file](https://github.com/kannasoot/datasplitter)
 - [**Presenter Randomizer**: a python script for randomize presenters in a seminar](https://github.com/kannasoot/presenter_randomizer)
