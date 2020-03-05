@@ -9,6 +9,7 @@ Most of the code repositories are private. You may contact me for an additional 
 
 ### Active Projects
 > Updated 02.03.2020
+
 - [**NanoStudio**: an interface software for NanoDAQ and NanoStat](https://github.com/kannasoot/nanostudio)
 - [**NanoStat**: a potentiostat designed for low current and high bandwidth measurement](https://github.com/kannasoot/nanostat)
 - [**ec-cell-electrodeposition**: a CAD design of a holder for an electrochemical cell with microelectrode](https://github.com/kannasoot/ec-cell-electrodeposition)
