@@ -14,6 +14,7 @@ Most of the code repositories are private. You may contact me for an additional 
 - [**NanoStat**: a potentiostat designed for low current and high bandwidth measurement](https://github.com/kannasoot/nanostat)
 - [**ec-cell-electrodeposition**: a CAD design of a holder for an electrochemical cell with microelectrode](https://github.com/kannasoot/ec-cell-electrodeposition)
 - [**modular-hardware**: a separate design block for quick prototyping](https://github.com/kannasoot/modular-hardware)
+- [**nanocap** (04.2020): an electrodeposition platform for a microelectrode](https://github.com/kannasoot/nanocap)
 
 ### Achieved Projects
 > Updated 02.03.2020
