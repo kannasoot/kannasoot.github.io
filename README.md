@@ -20,6 +20,7 @@ Most of the code repositories are private. You may contact me for an additional 
 - [**universal-instrument**: a multipurpose electrochemical and mechanical hand-held device](https://github.com/universal-instrument)
 
 ### Completed and archieved Projects
+> Updated 8.11.2020
 - [**NanoController**: a DAQ interface software for low-current electrochemical experiments](https://github.com/kannasoot/Nano-Controller)
 - [**reference-electrode-tester**: a legacy design of an electrometer and firmware for reference electrode testing](https://github.com/kannasoot/reference-electrode-tester)
 - [**ImpactRecorder**: a legacy version of NanoController developed in Python](https://github.com/kannasoot/ImpactRecorder)
