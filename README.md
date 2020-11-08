@@ -18,6 +18,7 @@ Most of the code repositories are private. You may contact me for an additional 
 - [**annealing-machine** (07.2020): a control part of annealing machine](https://github.com/kannasoot/annealing-machine)
 - [**pwm-power-led-driver**: a design of 4channel LED driver with programmable PWM capability](https://github.com/pwm-power-led-driver)
 - [**universal-instrument**: a multipurpose electrochemical and mechanical hand-held device](https://github.com/universal-instrument)
+- [**kqcm**: a repository for the electrochemical quartz crystal microbalance design](https://github.com/kqcm)
 
 ### Completed and archieved Projects
 > Updated 8.11.2020
