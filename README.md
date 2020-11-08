@@ -9,8 +9,8 @@ Most of the code repositories are private. You may contact me for an additional 
 
 ### Active Projects
 > Updated 8.11.2020
-- [**NanoStudio**: an interface software for NanoDAQ and NanoStat](https://github.com/kannasoot/nanostudio)
-- [**NanoStat**: a potentiostat designed for low current and high bandwidth measurement](https://github.com/kannasoot/nanostat)
+- [**nanostudio**: an interface software for NanoDAQ and NanoStat](https://github.com/kannasoot/nanostudio)
+- [**nanostat**: a potentiostat designed for low current and high bandwidth measurement](https://github.com/kannasoot/nanostat)
 - [**head-stages**: a dedicated repository for all head stage designs and simulations](https://github.com/kannasoot/head-stages)
 - [**modular-hardware-library**: a repository for modular hardware design from Kannasoot](https://github.com/kannasoot/modular-hardware-library)
 - [**ec-cell-electrodeposition**: a CAD design of a holder for an electrochemical cell with microelectrode](https://github.com/kannasoot/ec-cell-electrodeposition)
